@@ -45,4 +45,4 @@ It is ideal for:
 
 ```bash
 git clone https://github.com/LucasPereira1999-os/wifi-creds.git
-cd your-repo-name
+cd WiFi_Scanner.py
