@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/images/logo.png" width="220" alt="WiFi Scanner Logo"/>
+  <img src="https://github.com/LucasPereira1999-os/wifi-creds/edit/main/logo%20wifi.png" width="220" alt="WiFi Scanner Logo"/>
 </p>
 
 <h1 align="center">🔐 WiFi Credential Extractor (Windows)</h1>
