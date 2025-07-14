@@ -1,4 +1,6 @@
-![Logo](https://github.com/username/repo-name/blob/main/images/logo.png?raw=true)
+<p align="center">
+  <img src="https://github.com/LucasPereira1999-os/wifi-creds/blob/main/logo%20wifi.png" alt="Logo" width="220"/>
+</p>
 
 
 <h1 align="center">🔐 WiFi Credential Extractor (Windows)</h1>
