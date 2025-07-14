@@ -17,4 +17,8 @@
 
 
 # postexploit-wifi-creds
-Extracts saved Wi-Fi SSIDs and plaintext passwords on Windows using netsh. Intended for red team, research, and educational use.
+## 📡 WiFi Password Extractor (Windows)
+
+This script extracts stored Wi-Fi SSIDs and their passwords from a Windows system using the built-in `netsh` command. It is designed for educational purposes, red team recon, and post-exploitation within authorized environments.
+
+⚠️ Use only in environments you are authorized to test. The author does not endorse illegal or unethical usage.
